@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.aries:org.apache.aries.util:1.0.1.redhat-610379">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/aries/org.apache.aries.util/1.0.1.redhat-610379/org.apache.aries.util-1.0.1.redhat-610379.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/aries/org.apache.aries.util/1.0.1.redhat-610379/org.apache.aries.util-1.0.1.redhat-610379-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/aries/org.apache.aries.util/1.0.1.redhat-610379/org.apache.aries.util-1.0.1.redhat-610379-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
